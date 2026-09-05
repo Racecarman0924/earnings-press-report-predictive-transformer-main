@@ -1,0 +1,6 @@
+torch>=2.4
+sentence-transformers>=3.0
+streamlit>=1.36
+requests>=2.31
+numpy>=1.26
+matplotlib>=3.8

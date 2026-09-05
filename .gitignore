@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.claude/
+.DS_Store
+
+# Large regenerable artefacts
+cache/
+out/model.pt
+out/*.log
+out/history.json
+.ci-pending/
